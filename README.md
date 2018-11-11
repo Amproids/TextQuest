@@ -1,4 +1,4 @@
-Hi and welcome to text quest! This is a little project that 
+Hi and welcome to our game! This is a little project that 
 a small group of friends decided to put together for us to learn more about programming!
 
 If you somehow wondered here, cool! Depending on where were at in this game it may or may not be functional.
